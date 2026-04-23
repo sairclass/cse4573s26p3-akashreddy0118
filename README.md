@@ -12,8 +12,8 @@ Please first update below and push your change to this repo.
 
 For the environment, you can use the project 2 setting and install face_recognition. Or use your own, there are no hard requirement about pytorch version.
 
-- Your name   
-- Your ubit name
+- Akash Kumar Reddy Pallerla  
+- apallerl
 
 **task 1 validation set**
 
@@ -43,12 +43,12 @@ python task2.py --input_path faceCluster_5 --num_cluster 5
 Note that when packing your submission, the script would run your code before packing.
 
 ```bash
-sh pack_submission.sh <YourUBITName>
+sh pack_submission.sh <apallerl>
 ```
 
 * Note: In the commands, use `python3` if your environment has python named as `python3` instead `python`.
 
-Change **`<YourUBITName>`** with your UBIT name.
-The resulting zip file should be named **"submission\_`<YourUBITName>`.zip"**, and it should contain the following files: **"result\_task1.json"**, **"result\_task1\_val.json"**,**"result\_task2.json"**,**"face.py"**,**"viz_task1.png"**,**"viz_task2.png"**. If not, there is something wrong with your code/filename, please go back and check.
+Change **`<apallerl>`** with your UBIT name.
+The resulting zip file should be named **"submission\_`<apallerl>`.zip"**, and it should contain the following files: **"result\_task1.json"**, **"result\_task1\_val.json"**,**"result\_task2.json"**,**"face.py"**,**"viz_task1.png"**,**"viz_task2.png"**. If not, there is something wrong with your code/filename, please go back and check.
 
 You should only submit the zip file.
